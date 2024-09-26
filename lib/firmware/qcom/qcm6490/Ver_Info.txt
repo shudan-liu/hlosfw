@@ -1,0 +1,23 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.5.c8-00149-KODIAK-1",
+        "aop": "AOP.HO.3.6-00010-KODIAK_E-1",
+        "apps": "LE.QCLINUX.1.0.r1-04300-K2C.0-1",
+        "apps_LKP1": "LKP.QCLINUX.1.0.r1-03000-kernel.0-1",
+        "boot": "BOOT.MXF.1.0.c1-00134-KODIAKLA-2",
+        "btfw_mp": "BTFW.MOSELLE.1.1.0-00525-MSL_PATCHZ-1",
+        "cdsp": "CDSP.HT.2.5.c3-00077-KODIAK-1",
+        "common": "QCM6490.LE.1.0-00218-STD.PROD-1",
+        "cpucp": "CPUCP.FW.1.0-00010-K2C.EXT-2",
+        "glue": "GLUE.QCM6490_LE.1.0-00298-NOOP_TEST-1",
+        "tz": "TZ.XF.5.0-08028.1-KODIAKAAAAANAAZT-1",
+        "tz_apps": "TZ.APPS.1.0-01669-KODIAKAAAAANAZT-3",
+        "wlan": "WLAN.MSL.2.0.c2-00204-QCAMSLSWPLZ-1"
+    },
+    "Metabuild_Info": {
+        "Meta_Build_ID": "QCM6490.LE.1.0-00218-STD.PROD-1",
+        "Product_Flavor": "['QCM6490_fw']",
+        "Time_Stamp": "2024-06-23 00:10:35"
+    },
+    "Version": "1.0"
+}
